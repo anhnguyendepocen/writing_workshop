@@ -1,3 +1,8 @@
 # Day 3: Paragraphs
 
-`r newthought("For a few years now, you")` 
+`r newthought("Today, we'll be moving back")` from content to mechanics. Today,
+we'll talk about editing for clarity at a different level, the level of
+paragraphs. We will look at how we can move around text in a paragraph to make
+it easier for a reader to quickly understand what they should get out of a
+paragraph and to easily follow ideas in the paragraph.
+
