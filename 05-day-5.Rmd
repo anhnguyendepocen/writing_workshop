@@ -1,0 +1,3 @@
+# Day 5: Words
+
+`r newthought("The **ggplot2** framework is a")` 

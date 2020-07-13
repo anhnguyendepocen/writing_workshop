@@ -1,0 +1,3 @@
+# Day 3: Paragraphs
+
+`r newthought("For a few years now, you")` 

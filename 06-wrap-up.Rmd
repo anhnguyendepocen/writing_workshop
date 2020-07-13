@@ -1,0 +1,26 @@
+# Wrap-up
+
+`r newthought("If you're doing it right,")` you will continue working to improve your
+writing your whole career. We can only cover a bit in one week. Here are some tips for
+things to do to continue:
+
+1. **Read a lot.** Ultimately, you will have to read a lot of journal articles in your
+field to internalize the style of your field. By "style" here, I mean things like
+what the Introduction normally covers (and in what depth), how limitations of the 
+study are discussed, how much detail should be included in the Methods, and how 
+materials are split between the main text and the Supplemental Online Material for
+manuscripts. As a student, you will need to read a lot anyway to become familiar with 
+the literature. In later stages of your career, you will read a lot (of varying quality)
+through service roles, like as a peer reviewer. At all stages, you will learn more about
+what works and what doesn't, what's expected and what isn't, in your field if you read
+a lot of journal articles in that field.
+2. **Find some favorite authors.**
+For environmental epidemiology, one of my favorite authors is Ben Armstrong. He can 
+explain very complex methodological approaches very clearly. For R programming, I love
+reading things that have been written by Jenny Bryan and Richie Cotton. 
+3. **Work on grammar and usage or find a good copyeditor.**
+4. **Try out writing groups and sessions.**
+5. **Explore brainstorming, planning, and organizing tools for writing.**
+6. **Learn LaTeX.**
+7. **Find your favorite text editor and learn to use it well.**
+8. **Learn more about rhetoric.**
