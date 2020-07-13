@@ -62,7 +62,7 @@ At worst, bad figures and tables can make a manuscript look unprofessional. If
 they do, then a reviewer may worry that the research presented in the study is 
 similarly sloppy or poorly done. Figures and tables are the best chance to immediately
 engage a reader, and they'll often stick with the reader, if they're good, much 
-longer than the text. They also served double-duty, as you'll often also include
+longer than the text. They also serve double-duty, as you'll use 
 them in presentations you make about the research. Finally, a really good figure or
 table encourages the reader to explore the results from the research deeply, and 
 start looking for patterns or trends that suggest ideas for next steps for the 
@@ -72,15 +72,15 @@ to do to take the next steps. There are some excellent resources for learning ho
 to design and create figures and tables. I particularly like books by Edward Tufte
 and Howard Wainer. There are also a number of books on visualization that are 
 specific to a programming language, like R or Python.
-4. **How to get words on paper.** Our focus will be strongly on improving and
+4. **How to get words on paper.** Our focus will be on improving and
 revising a manuscript once you've already got some stuff down on paper. We won't
-talk much about how to get some stuff down in the first place. There are some
+talk much about how to get the stuff down in the first place. There are some
 good books on the topic of writing initial drafts. Different writers have
 different styles for this. Some will work very hard on the first draft, so that
 rewriting doesn't need to be extensive. I tend to start by writing a lot, but
-all of it pretty messy and drafty, and then wrangling and editing that raw
+all of it pretty messy, and then wrangling and editing that raw
 material into a more solid draft. I usually do lots of rounds of drafts,
-starting with editing to move big parts around and form the larger structure of
+first moving big parts around to form the larger structure of
 the paper and to see where there are holes that need more evidence or support.
 Then, in later drafts, my editing process involves drilling down to make
 the writing clearer and easier to read. In this workshop we'll focus on the work
@@ -124,21 +124,23 @@ in the field. If the writer does not make the writing clear and easy to read, it
 can feel impossible to read the paper, because your brain can't simultaneously
 try to figure out what the writer was trying to say and what the science in the
 paper is saying. You have worked hard on your science. It's worth the effort to
-edit your manuscript until you remove all overhead you can that makes the
-writing hard to read. Most people, even senior scientists, write first drafts
-that are a drag to read. Even if all the information is there, it's a lot of
-work to mentally extract it, and it's often hard to follow along with the
-arguments and explanations. It's fine for your early drafts to be like that.
-It's not good for the submitted manuscript to still feel so heavy.
+edit your manuscript until you remove all overhead and make the writing easy to
+read.
 
-The examples in *Style* are mainly from academic non-fiction, although not 
+Most people, even senior scientists, write first drafts that are a
+drag to read. Even if all the information is there, it's a lot of work to
+mentally extract it, and it's often hard to follow along with the arguments and
+explanations. It's fine for your early drafts to be like that. It's not good for
+the submitted manuscript to still feel so heavy. 
+
+The examples in *Style* are mainly from academic writing, although not 
 specifically from scientific manuscripts or manuscripts meant for peer review. 
 Fortunately, two other writers have taken Williams's ideas and illustrated 
 how they work in scientific writing. Further, they give some tips specific to 
 scientific writing, including how to plan and structure certain sections---like the
-Introduction and Discussion. 
+Introduction and Discussion. These are the second and third books on the list. 
 
-The final book includes a section on arguments. We often don't think of
+The fourth book in the list includes a section on arguments. We often don't think of
 scientific writing as argumentative, but it really is. You will need to convince
 readers that your study is important, that it advances the science. Then you'll
 need to not just present your results, but provide an interpretation for those
@@ -169,7 +171,7 @@ Colomb, Joseph M. Williams, Joseph Bizup, and William T.
 FitzGerald.](https://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/022623973X/ref=sr_1_2?dchild=1&keywords=craft+of+research&qid=1594599147&s=books&sr=1-2)
 
 We will also use three published articles as examples. None of these are traditional research
-articles, but rather cover a range of commentary-/editorial-style articles. All three should be 
+articles, but rather cover a range of commentary/editorial-style articles. All three should be 
 available either directly online or through CSU. Please let me know if you have any problem
 accessing any of these articles.
 
@@ -199,6 +201,15 @@ for further editing and try our hand at doing that.
 Each day of the week, we will focus on a different topic.
 
 Schedule: 
+
+- **Day 1:** Sentences
+- **Day 2:** Openings
+- **Day 3:** Paragraphs
+- **Day 4:** Arguments
+- **Day 5:** Words
+
+You can navigate to the material for each day through the table of contents links
+above.
 
 
 
