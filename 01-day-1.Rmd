@@ -82,6 +82,7 @@ Next, read through the full paragraph and try to diagnose every sentence that is
 problematic, from this perspective. Use the following advice from the *Style*
 book:
 
+
 > "A quick method is simply to run a line under the first five or six words of
 every sentence. If you find that (1) you have to go more than six or seven words
 into a sentence to get past the subject to the verb and (2) the subject of the
