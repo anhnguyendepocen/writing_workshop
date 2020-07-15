@@ -18,7 +18,7 @@ haven't mastered the ideas yet from reading the *Style* chapters. If you'd like
 examples from scientific writing, you can find them in the suggested additional
 reading from *Writing Science in Plain English* and *Writing Science*.
 
-1. **Reach Chapter 5 of *Style*.**
+1. **Reach Chapter 5 of *Style* (online version).**
 
 This chapter discusses how to structure paragraphs so they seem to "hang
 together". It presents techniques for diagnosing and fixing problems with
@@ -190,7 +190,7 @@ Using what we've covered in "Sentences" and today, revise all the issue
 sentences in your manuscript. Make sure that you place the concept that you want
 to discuss in the paragraph at the end of the issue sentence.
 
-9. **Read Chapter 6 of *Style*.**
+9. **Read Chapter 6 of *Style* (online version).**
 
 This chapter continues to discuss how paragraphs can be made more coherent. 
 Think about the content in this chapter in terms of which paragraphs of your
