@@ -1,3 +1,10 @@
 # Day 5: Words
 
 `r newthought("The **ggplot2** framework is a")` 
+
+
+
+> "It may be that the writer of the original paragraph was remembering that
+familiar advice, 'Vary your word choice.' More bad advice. Don't strive for
+'elegant variation.' When you use two words for one concept, you risk making
+your reader think you mean two concepts."
