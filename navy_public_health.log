@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  17 JUL 2020 09:05
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  17 JUL 2020 09:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1170,27 +1170,42 @@ Package fontspec Info: Gill Sans scale = 0.9584045874049945.
 Package fontspec Info: Gill Sans scale = 0.9584045874049945.
 
 [33]
+Overfull \hbox (9.97098pt too wide) in paragraph at lines 1643--1644
+[]\TU/GillSans(0)/bx/n/10 Ensure that you are using the right technical terms i
+n your manuscript.  
+ []
+
+
+Overfull \hbox (8.3043pt too wide) in paragraph at lines 1683--1684
+[]\TU/GillSans(0)/bx/n/10 Diagnose and fix jargon and redundancy throughout you
+r manuscript.  
+ []
+
 
 Package fontspec Info: Gill Sans scale = 0.9584045874049945.
 
 [34]
-Chapter 7.
-No file navy_public_health.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1679.
-[35
+
+Package fontspec Info: Gill Sans scale = 0.9584045874049945.
+
+[35] [36
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1679.
+Chapter 7.
+No file navy_public_health.bbl.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1766.
+[37]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1766.
 (./navy_public_health.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1679.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1679.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1766.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1766.
 
 Package rerunfilecheck Info: File `navy_public_health.out' has not changed.
 (rerunfilecheck)             Checksum: BE4D45D64ED04F251D0FFE4EA98CA71F.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1679.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1766.
  ) 
 Here is how much of TeX's memory you used:
  24204 strings out of 492916
@@ -1201,4 +1216,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  57i,12n,126p,423b,523s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on navy_public_health.pdf (35 pages).
+Output written on navy_public_health.pdf (37 pages).
