@@ -33,6 +33,9 @@ a chapter on "Concision" that we'll cover, and *Writing Science in Plain English
 These two chapters cover how to remove needless words from your writing. Both cover
 several ways that words can be redundant.
 
+*Additional reading.* If you would like more information on the ideas in these
+chapters of *Style*, you can also check out Chapter 16 from *Writing Science*.
+
 2. **Diagnose and fix word redundance in paragraphs from example papers.**
 
 On an earlier day, we looked closesly at the following paragraph from the Schwartz
@@ -79,4 +82,71 @@ https://forge.medium.com/close-proximity-end-result-and-more-redundant-words-to-
 https://kathysteinemann.com/Musings/redundant/, and
 https://www.thoughtco.com/common-redundancies-in-english-1692776. 
 
+4. **Read Chapter 15 from *Writing Science* and Chapter 5 from *Writing Science in Plain English*.**
+
+These two chapters cover how to choose the word to use for words that must
+stay---the ones that aren't redundant. They cover two important ideas. First,
+there are some words that mean something very specific in your field, and that
+provide an immediate way to get a specific and often subtle idea across to
+readers who have been trained in your field. For these words, you need to make
+sure you are using the right term, and you don't want to simplify them because
+they lose their precise and subtle meaning.
+
+However, typically these words will be only a minor proportion of all the words
+in your manuscript. It is easy for jargon or unneccessarily fancy words to creep
+in everywhere else. Again, you are writing to describe ideas and findings that
+are very complex. It will be hard for readers to process those ideas. To help
+them a little, please, please, please try to make everything surrounding and
+supporting those ideas as simple and clear as you can. If you worry that your
+edited version of the manuscript is going to make you "sound dumb" because it 
+sounds so simple, then you are on the right track! 
+
+Also---and this is something that I continue to feel when I edit my own
+papers---when you edit to clarify and simplify, you may sometimes feel exposed
+or unprotected, because your idea is just out there for anyone to understand,
+not in the shadow behind fancy words or sentence constructions. If you've edited
+your manuscript well, you should feel a bit exposed. You're giving people a look
+right into your head, and they'll be able to evaluate your ideas for what they
+are. This is a normal feeling, and it feels scary, but it means you're on to
+something good. If the idea itself is bad, you'll now see that more clearly and
+be able to fix it. If it's a good idea, then other people will be able to grasp
+it.
+
+5. **Identify technical terms versus jargon in a paragraph from an example paper.**
+
+Re-read the following paragraph from the Gall et al. paper:
+
+> "Natural hazard losses exhibit an upward trend over time (Fig. 2). This is a
+function of increases in wealth and population (Cutter and Emrich 2005; Pielke
+et al. 2008) but is also attributed to better loss accounting in recent years.
+The escalating pattern of hazard losses is therefore partially an artifact of
+advances in reporting losses, but how much or how little this effect contributes
+to the skyrocketing losses in comparison to effects of population growth and
+increasing wealth in high hazard areas is unclear."
+
+Make a list of the terms in this paragraph that you think are technical terms, 
+as defined on page 147 of *Writing Science*. Then, highlight any terms that you 
+think might be jargon, again using the definition from *Writing Science*. 
+
+For each term in the "technical terms" list, write down what you think it's 
+specific definition is. Look earlier in the paper. Is the term specifically 
+defined or explained by the authors earlier in the manuscript?
+
+Finally, revise the paragraph to replace all the jargon terms with simpler language. 
+
+6. **Identify technical terms necessary in your manuscript.**
+
+Go through your entire manuscript and make a glossary of the technical terms
+that you *must* use in the manuscript. These might be proper nouns, like the
+name of a specific package repository like "CRAN" or a database like "NOAA Storm
+Events". They may be ideas that are  very specific to your topic, like
+"reproducibility" or "exposure misclassification". In your glossary, include
+both the term and your definition for it.
+
+7. **Diagnose and fix jargon in your manuscript.**
+
+Use the same paragraphs from your manuscript that you did for prompt 3.
+Highlight any terms in these paragraphs that are in the glossary you created in
+the last prompt. Now look at all the remaining words. Are any more complex than
+they need to be? Identify jargon and revise the paragraphs to use simpler words.
 
